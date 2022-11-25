@@ -101,7 +101,7 @@ int main() {
 			int a, b;
 			scanf("%d%d", &a, &b);
 			int res = path(a,b);
-			printf("%d ", res);
+			printf("%d ", res);	
 		}
 	}
 }
