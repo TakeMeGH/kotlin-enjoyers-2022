@@ -1,4 +1,4 @@
-# kotlin-enjoyers-2022
+# O(N^3)-2023
 
-codes2pdf . --author="Kotlin Enjoyers - Universitas Indonesia" --initials="Kotlin Enjoyers - Universitas Indonesia"
+codes2pdf . --author="O(N^3) - Universitas Indonesia" --initials="O(N^3) - Universitas Indonesia"
 
